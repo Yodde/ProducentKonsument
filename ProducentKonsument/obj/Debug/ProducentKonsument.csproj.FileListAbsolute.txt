@@ -1,0 +1,6 @@
+C:\Projekty\ProducentKonsument\ProducentKonsument\bin\Debug\ProducentKonsument.exe.config
+C:\Projekty\ProducentKonsument\ProducentKonsument\bin\Debug\ProducentKonsument.exe
+C:\Projekty\ProducentKonsument\ProducentKonsument\bin\Debug\ProducentKonsument.pdb
+C:\Projekty\ProducentKonsument\ProducentKonsument\obj\Debug\ProducentKonsument.csprojResolveAssemblyReference.cache
+C:\Projekty\ProducentKonsument\ProducentKonsument\obj\Debug\ProducentKonsument.exe
+C:\Projekty\ProducentKonsument\ProducentKonsument\obj\Debug\ProducentKonsument.pdb
